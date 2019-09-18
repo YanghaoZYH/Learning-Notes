@@ -21,10 +21,10 @@ Ranking metric, e.g. AUC : Area under RoC
 **Possible issue: near the decision boundary; attack using a specific change(e.g. yellow color for )  **
 
 Learn a classifier giving low confidence score:
-Ref: Kimin Lee, Honglak Lee, Kibok Lee, Jinwoo Shin, Training Confidencecalibrated Classifiers for Detecting Out-of-Distribution Samples, ICLR 2018
+Ref: Kimin Lee, Honglak Lee, Kibok Lee, Jinwoo Shin, Training Confidencecalibrated Classifiers for Detecting Out-of-Distribution Samples, ICLR 2018 (https://arxiv.org/abs/1711.09325)
 
 Obtained by Generative model: 
-Ref: Mark Kliger, Shachar Fleishman, Novelty Detection with GAN, arXiv, 2018
+Ref: Mark Kliger, Shachar Fleishman, Novelty Detection with GAN, arXiv, 2018 (https://arxiv.org/abs/1802.10560)
 
 ---
 
