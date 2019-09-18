@@ -11,7 +11,7 @@ Classifier output: Class & Confidence score
 Confidence: maximum scores or negative entropy
 
 Ref: Terrance DeVries, Graham W. Taylor, Learning Confidence for Out-of-Distribution
-Detection in Neural Networks, arXiv, 2018
+Detection in Neural Networks, arXiv, 2018 (https://arxiv.org/abs/1802.04865)
 
 **Accuracy may not be a good measurement!**
 
@@ -21,7 +21,7 @@ Ranking metric, e.g. AUC : Area under RoC
 **Possible issue: near the decision boundary; attack using a specific change(e.g. yellow color for )  **
 
 Learn a classifier giving low confidence score:
-Ref: Kimin Lee, Honglak Lee, Kibok Lee, Jinwoo Shin, Training Confidencecalibrated Classifiers for Detecting Out-of-Distribution Samples, ICLR 2018 (https://arxiv.org/abs/1711.09325)
+Ref: Kimin Lee, Honglak Lee, Kibok Lee, Jinwoo Shin, Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples, ICLR 2018 (https://arxiv.org/abs/1711.09325)
 
 Obtained by Generative model: 
 Ref: Mark Kliger, Shachar Fleishman, Novelty Detection with GAN, arXiv, 2018 (https://arxiv.org/abs/1802.10560)
